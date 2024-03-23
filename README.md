@@ -12,4 +12,5 @@
 10) wgEncodeBroadHistoneNhlfH3k09me3 - http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneNhlfH3k09me3AlnRep1.bam
 #### Контроль:  
 http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneNhlfControlStdAlnRep1.bam  
-
+#### Полученные файлы:
+Результат работы LearnModel находится в папке learnModelData  
