@@ -13,4 +13,6 @@
 #### Контроль:  
 http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneNhlfControlStdAlnRep1.bam  
 #### Полученные файлы:
+Питон-тетрадка находится в папке src  
+Файл cellmarkfiletable.txt находится в папке src  
 Результат работы LearnModel находится в папке learnModelData  
